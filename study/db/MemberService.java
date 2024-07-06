@@ -377,6 +377,5 @@ public class MemberService {
                 throw new RuntimeException(e);
             }
         }
-    // test
     }
 }
